@@ -1,2 +1,2 @@
 # Drowsiness-Detection
-Phyton code by using TF and OpenCV to detect drowsiness
+Drowsiness Detection using Phyton by using TF and OpenCV
